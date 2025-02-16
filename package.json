@@ -1,6 +1,6 @@
 {
   "name": "website-tracking-analyzer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A lightweight Next.js analytics plugin for tracking page views and events.",
   "main": "index.js",
   "module": "index.js",
@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/xTrEeMx/website-tracking-analyzer.git"
   },
-  "keywords": ["analytics", "nextjs", "tracking", "privacy"],
+  "keywords": [
+    "analytics",
+    "nextjs",
+    "tracking",
+    "privacy"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
