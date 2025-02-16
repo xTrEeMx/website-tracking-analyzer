@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { saveAnalyticsData } from "./storage"; // Handles optional database storage
+import { saveAnalyticsData } from "./storage";
 
 export async function POST(req) {
     try {
