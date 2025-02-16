@@ -1,4 +1,4 @@
-import prisma from "./prisma";  // Prisma instance
+import prisma from "./prisma"; // Ensure Prisma is set up
 
 export async function saveAnalyticsData(data) {
     await prisma.analytics.create({
