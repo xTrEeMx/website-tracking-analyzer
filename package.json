@@ -1,6 +1,6 @@
 {
   "name": "website-tracking-analyzer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A lightweight Next.js analytics plugin for tracking page views and events.",
   "main": "index.js",
   "module": "index.js",
